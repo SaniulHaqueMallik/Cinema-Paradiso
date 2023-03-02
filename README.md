@@ -3,8 +3,8 @@ Cinema-Paradiso in React & Redux + Django
 # Cinema-Paradiso, with a frontend built in React & Redux and a backend built in Django API.
 Live Demo
 This App uses a Replit free plan, so I am afraid that it takes time to load the pages.
-Check out (FRONTEND LIVE)[https://cinemaparadiso-frontend.saniulmallik.repl.co/] DEMO here!!
-Check out (API LIVE)[https://cinemaparadiso-backend.saniulmallik.repl.co/] DEMO here!!
+Check out [FRONTEND LIVE](https://cinemaparadiso-frontend.saniulmallik.repl.co/) DEMO here!!
+Check out [API LIVE](https://cinemaparadiso-backend.saniulmallik.repl.co/) DEMO here!!
 Tech used
 * Frontend : React & Redux
 * Backend : Django
